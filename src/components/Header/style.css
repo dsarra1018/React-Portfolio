@@ -1,0 +1,32 @@
+.header-div {
+  padding: 0.9375rem 0;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Source Sans Pro', sans-serif;
+  position: relative;
+  line-height: 1;
+}
+
+.menu {
+  color: #000000;
+  font-size: 0.625rem;
+  letter-spacing: 0.1rem;
+  border: 0;
+  background-color: transparent;
+  padding: 0 1.25rem;
+  display: flex;
+  align-items: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 0.0625rem;
+}
+
+button:focus {
+  color: #ea3232;
+  outline: none;
+}
+
+button:hover {
+  color: #ea3232;
+}
