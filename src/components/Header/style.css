@@ -1,8 +1,18 @@
 .header-div {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+}
+
+header {
   padding: 0.9375rem 0;
   background-color: #ffffff;
   display: flex;
+  -webkit-align-items: center;
   align-items: center;
+  -webkit-justify-content: space-between;
   justify-content: space-between;
   font-family: 'Source Sans Pro', sans-serif;
   position: relative;
@@ -11,7 +21,7 @@
 
 .menu {
   color: #000000;
-  font-size: 0.625rem;
+  font-size: 0.650rem;
   letter-spacing: 0.1rem;
   border: 0;
   background-color: transparent;
@@ -29,4 +39,26 @@ button:focus {
 
 button:hover {
   color: #ea3232;
+}
+
+a {
+  color: #000000;
+  font-family: 'Lato', sans-serif;
+  outline: none;
+}
+
+h1 {
+  border-style: solid;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a:focus {
+  color: #d3d3d3;
+  outline: none;
+}
+
+a:hover {
+  color: #d3d3d3;
+  text-decoration: none;
 }
