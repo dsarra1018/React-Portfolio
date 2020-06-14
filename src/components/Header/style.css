@@ -6,7 +6,12 @@
   z-index: 2;
 }
 
-header {
+.header-left, .header-center, .header-right {
+  -webkit-flex: 1;
+  flex: 1;
+}
+
+.site-header {
   padding: 0.9375rem 0;
   background-color: #ffffff;
   display: flex;
@@ -26,10 +31,21 @@ header {
   border: 0;
   background-color: transparent;
   padding: 0 1.25rem;
+  display: -webkit-flex;
   display: flex;
+  -webkit-align-items: center;
   align-items: center;
   font-family: 'Source Sans Pro', sans-serif;
   margin-bottom: 0.0625rem;
+}
+
+.header-center {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
 }
 
 button:focus {
@@ -48,6 +64,7 @@ a {
 }
 
 h1 {
+  font-size: 2.3rem;
   border-style: solid;
   padding-left: 10px;
   padding-right: 10px;

@@ -29,12 +29,12 @@ class Header extends Component {
   render() {
     return(
       <div className="header-div">
-        <header>
+        <header className="site-header">
           <div className="header-left">
             <button className="menu" onMouseDown={this.props.handleMouseDown}>MENU</button>
           </div>
           <div className="header-center">
-            <a href="/"><h1>DARREN ADRIAN SARRA</h1></a>
+            <a href="/"><h1>DARREN SARRA</h1></a>
           </div>
           <div className="header-right"></div>
         </header>
