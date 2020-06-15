@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../../components/Header";
-// import Footer from "../../components/Footer";
+import Footer from "../../components/Footer";
 import MainAbout from "../../components/MainAbout";
 
 function About() {
@@ -8,7 +8,7 @@ function About() {
       <div>
         <Header />
         <MainAbout />
-        {/* <Footer /> */}
+        <Footer />
       </div>
   )
 };
