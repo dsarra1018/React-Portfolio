@@ -3,28 +3,28 @@ import "./style.css";
 
 class Header extends Component {
 
-  constructor(props, context) {
-    super(props, context);
+  // constructor(props, context) {
+  //   super(props, context);
 
-    this.state = {
-      visible: false
-    };
+  //   this.state = {
+  //     visible: false
+  //   };
 
-    this.toggleMenu = this.toggleMenu.bind(this);
-    this.handleMouseDown = this.handleMouseDown.bind(this);
-  }
+  //   this.toggleMenu = this.toggleMenu.bind(this);
+  //   this.handleMouseDown = this.handleMouseDown.bind(this);
+  // }
 
-  toggleMenu() {
-    this.setState({
-      visible: !this.state.visible
-    });
-  }
+  // toggleMenu() {
+  //   this.setState({
+  //     visible: !this.state.visible
+  //   });
+  // }
 
-  handleMouseDown(e) {
-    this.toggleMenu();
+  // handleMouseDown(e) {
+  //   this.toggleMenu();
 
-    e.stopPropagation();
-  }
+  //   e.stopPropagation();
+  // }
 
   render() {
     return(
