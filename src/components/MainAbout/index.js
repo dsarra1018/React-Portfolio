@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../../assests/img/darren_sarra.jpeg"
+import Image from "../../assests/img/darren_sarra.jpg"
 import "./style.css";
 
 const style = {
