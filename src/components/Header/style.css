@@ -6,7 +6,7 @@
   z-index: 2;
 }
 
-.header-left, .header-center, .header-right {
+.header-left, .header-right {
   -webkit-flex: 1;
   flex: 1;
 }
