@@ -9,7 +9,7 @@ function Contacts() {
           <h2 className="page-title">CONTACT</h2>
           <div className="page-content">
             <p>
-              Contact me if you have any questions or inquiries. 
+              Contact me if you have any questions.
             </p>
             <div className="input-forms">
               <input type="text" className="forms" id="first_name" placeholder=" *First Name"></input>
