@@ -1,0 +1,43 @@
+main {
+  display: block;
+}
+
+.contact-page {
+  max-width: 64rem;
+}
+
+.page-template {
+  width: 100%;
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 1.25rem;
+  min-height: 60vh;
+}
+
+.page-title {
+  text-align: left;
+  margin-top: 0;
+}
+
+h2, .page-title {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2.1875rem;
+  font-weight: bold;
+  line-height: 0.95;
+  letter-spacing: 0.03rem;
+}
+
+.page-content {
+  font-size: 0.75rem;
+  line-height: 2;
+}
+
+.forms {
+  border: 1px solid #bec6ca;
+  box-shadow: none;
+  padding: 6px 12px;
+}
+
+p {
+  margin-bottom: 24px;
+}
