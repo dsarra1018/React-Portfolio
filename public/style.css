@@ -2,3 +2,26 @@ html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
 }
+
+body {
+  font-size: 0.6875rem;
+  line-height: 1.666;
+}
+
+body, html {
+  background-color: #ffffff;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+body {
+  display: block;
+  margin: 8px;
+}
