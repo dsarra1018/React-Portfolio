@@ -2,6 +2,15 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
+const font_color = {
+  active: {
+    color: "#ea3232"
+  },
+  non_active: {
+    color: "#000000"
+  }
+} 
+
 function Footer() {
   return(
     <div className="footer-div">
@@ -29,19 +38,35 @@ function Footer() {
           <ul className="nav-links-list">
             
             <li className="nav-links">
-              <Link className="links" to="/">HOME</Link>
+              <Link className="links" style={
+                window.location.pathname === "/" 
+                  ? font_color.active
+                  : font_color.non_active
+              } to="/">HOME</Link>
             </li>
             
             <li className="nav-links">
-              <Link className="links" to="/about">ABOUT</Link>
+              <Link className="links" style={
+                window.location.pathname === "/about" 
+                  ? font_color.active
+                  : font_color.non_active
+              } to="/about">ABOUT</Link>
             </li>
             
             <li className="nav-links">
-              <Link className="links" to="/projects">PROJECTS</Link>
+              <Link className="links" style={
+                window.location.pathname === "/projects" 
+                  ? font_color.active
+                  : font_color.non_active
+              } to="/projects">PROJECTS</Link>
             </li>
             
             <li className="nav-links">
-              <Link className="links" to="/contact">CONTACT</Link>
+              <Link className="links" style={
+                window.location.pathname === "/contact" 
+                  ? font_color.active
+                  : font_color.non_active
+              } to="/contact">CONTACT</Link>
             </li>
           </ul>
 
