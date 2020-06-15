@@ -14,7 +14,7 @@ const font_color = {
 function Footer() {
   return(
     <div className="footer-div">
-      <footer className="footer fixed-bottom">
+      <footer className="footer">
         
         {/* Social Media Links */}
         <nav className="social">
