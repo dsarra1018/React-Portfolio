@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/deploy-React-Portfolio/static/css/main.0914202a.chunk.css",
-    "main.js": "/deploy-React-Portfolio/static/js/main.1d052dcd.chunk.js",
-    "main.js.map": "/deploy-React-Portfolio/static/js/main.1d052dcd.chunk.js.map",
-    "runtime-main.js": "/deploy-React-Portfolio/static/js/runtime-main.e5103317.js",
-    "runtime-main.js.map": "/deploy-React-Portfolio/static/js/runtime-main.e5103317.js.map",
-    "static/js/2.459ecd0c.chunk.js": "/deploy-React-Portfolio/static/js/2.459ecd0c.chunk.js",
-    "static/js/2.459ecd0c.chunk.js.map": "/deploy-React-Portfolio/static/js/2.459ecd0c.chunk.js.map",
-    "index.html": "/deploy-React-Portfolio/index.html",
-    "precache-manifest.b4bef76fff25e0afba267a4d8ad3963b.js": "/deploy-React-Portfolio/precache-manifest.b4bef76fff25e0afba267a4d8ad3963b.js",
-    "service-worker.js": "/deploy-React-Portfolio/service-worker.js",
-    "static/css/main.0914202a.chunk.css.map": "/deploy-React-Portfolio/static/css/main.0914202a.chunk.css.map",
-    "static/js/2.459ecd0c.chunk.js.LICENSE.txt": "/deploy-React-Portfolio/static/js/2.459ecd0c.chunk.js.LICENSE.txt",
-    "static/media/darren_sarra.jpg": "/deploy-React-Portfolio/static/media/darren_sarra.f527fd9d.jpg"
+    "main.css": "/React-Portfolio/static/css/main.0914202a.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.1d052dcd.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.1d052dcd.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.154030ce.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.154030ce.js.map",
+    "static/js/2.459ecd0c.chunk.js": "/React-Portfolio/static/js/2.459ecd0c.chunk.js",
+    "static/js/2.459ecd0c.chunk.js.map": "/React-Portfolio/static/js/2.459ecd0c.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.3c002da1649de9d3d4a66ec2aa60b43c.js": "/React-Portfolio/precache-manifest.3c002da1649de9d3d4a66ec2aa60b43c.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.0914202a.chunk.css.map": "/React-Portfolio/static/css/main.0914202a.chunk.css.map",
+    "static/js/2.459ecd0c.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.459ecd0c.chunk.js.LICENSE.txt",
+    "static/media/darren_sarra.jpg": "/React-Portfolio/static/media/darren_sarra.f527fd9d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5103317.js",
+    "static/js/runtime-main.154030ce.js",
     "static/js/2.459ecd0c.chunk.js",
     "static/css/main.0914202a.chunk.css",
     "static/js/main.1d052dcd.chunk.js"
