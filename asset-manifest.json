@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.0914202a.chunk.css",
+    "main.js": "/my-app/static/js/main.1d052dcd.chunk.js",
+    "main.js.map": "/my-app/static/js/main.1d052dcd.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.6bb17465.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.6bb17465.js.map",
+    "static/js/2.459ecd0c.chunk.js": "/my-app/static/js/2.459ecd0c.chunk.js",
+    "static/js/2.459ecd0c.chunk.js.map": "/my-app/static/js/2.459ecd0c.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.e2421296eaa1b96dfe4bc51c51dd56de.js": "/my-app/precache-manifest.e2421296eaa1b96dfe4bc51c51dd56de.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.0914202a.chunk.css.map": "/my-app/static/css/main.0914202a.chunk.css.map",
+    "static/js/2.459ecd0c.chunk.js.LICENSE.txt": "/my-app/static/js/2.459ecd0c.chunk.js.LICENSE.txt",
+    "static/media/darren_sarra.jpg": "/my-app/static/media/darren_sarra.f527fd9d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bb17465.js",
+    "static/js/2.459ecd0c.chunk.js",
+    "static/css/main.0914202a.chunk.css",
+    "static/js/main.1d052dcd.chunk.js"
+  ]
+}
