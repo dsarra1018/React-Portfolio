@@ -39,10 +39,10 @@ function Footer() {
             
             <li className="nav-links">
               <Link className="links" style={
-                window.location.pathname === "/" 
+                window.location.pathname === "/React-Portfolio" 
                   ? font_color.active
                   : font_color.non_active
-              } to="/">HOME</Link>
+              } to="/React-Portfolio">HOME</Link>
             </li>
             
             <li className="nav-links">
