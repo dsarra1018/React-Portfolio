@@ -34,7 +34,7 @@ class Header extends Component {
             <button className="menu" onMouseDown={this.props.handleMouseDown}>MENU</button>
           </div>
           <div className="header-center">
-            <a href="/"><h1>DARREN <br></br>&ensp;SARRA</h1></a>
+            <a href="/React-Portfolio"><h1>DARREN <br></br>&ensp;SARRA</h1></a>
           </div>
           <div className="header-right"></div>
         </header>
